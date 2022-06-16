@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: greenyellow;
+}
+#fun{
+    color: blue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+button{
+    height: 60px;
+    width: 120px;
+    color: tomato;
+    font-weight: bolder;
+    font-size: large;
+    background-color: blue;
+    padding: 2px;
+    border: solid 6px black;
+    border-radius: 12px;
+}
+input{
+    font-weight: bolder;
+    font-size: x-large;
+    width: 350px;
+    height: 30px;
+}   
